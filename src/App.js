@@ -6,8 +6,8 @@ import Eventos from './paginas/Eventos';
 import Contatos from './paginas/Contatos';
 import PaginaInicial from './paginas/PaginaInicial';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
-
+import FooterPage from './componentes/FooterPage';
+import Products from './componentes/Products';
 
 function App () {
   return (
@@ -18,8 +18,12 @@ function App () {
         <Route path='/produtos' component={Produtos} />
         <Route path='/eventos' component={Eventos} />
         <Route path='/contatos' component={Contatos} />
+        
+        <FooterPage />
       </div>
+     
     </Switch>
+    
   )
 }
 

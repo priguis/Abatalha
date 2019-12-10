@@ -12,6 +12,7 @@ function PaginaInicial () {
         className='home-header'
       />
     </main>
+
   )
 }
 
