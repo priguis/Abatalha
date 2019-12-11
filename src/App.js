@@ -7,7 +7,7 @@ import Contatos from './paginas/Contatos';
 import PaginaInicial from './paginas/PaginaInicial';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import FooterPage from './componentes/FooterPage';
-import Products from './componentes/Products';
+
 
 function App () {
   return (

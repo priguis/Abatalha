@@ -8,7 +8,7 @@ import "./style.css";
 
 
 const images = [
-  "https://mdbootstrap.com/img/Others/documentation/img%20(150)-mini.jpg",
+  
   "https://mdbootstrap.com/img/Others/documentation/img%20(152)-mini.jpg",
   "https://mdbootstrap.com/img/Others/documentation/img%20(42)-mini.jpg",
   "https://mdbootstrap.com/img/Others/documentation/img%20(151)-mini.jpg",

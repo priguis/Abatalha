@@ -7,7 +7,8 @@ function Header2 (props) {
             <h1> Conheça nossos produtos Dominação!
                 
             </h1>
-            <button ClassName='botao-whats'>Encomende Agora!</button>
+            
+            <button className='botao-whats' a href='https://www.instagram.com/lojadominacao/'>Encomende Agora!</button>
             
         </section>
 
