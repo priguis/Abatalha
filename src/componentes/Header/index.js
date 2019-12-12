@@ -17,7 +17,7 @@ function Header(props) {
 </h5>
 <h3> Eaí, bora colar e se conhecer?</h3>
 
-<h5>Comandada pelas mestres de cerimônia Gabi Nyarai, Jade Quebra e Ingrid Martins, registrada por Nathália Santos, Priscila E e Jazz comandando a lojinha de produtos</h5>
+
         </section>
     )
 }

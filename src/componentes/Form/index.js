@@ -1,13 +1,15 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol, MDBBtn, MDBIcon } from 'mdbreact';
+import './style.css';
 
 const FormPage = () => {
   return (
+    <div className="form">
     <MDBContainer>
       <MDBRow>
         <MDBCol md="6">
           <form>
-            <p className="h4 text-center mb-4">Fale com a gente!</p>
+            <p className="h2 text-center mb-4">Fale com a gente!</p>
             <label htmlFor="defaultFormContactNameEx" className="grey-text">
               Insira seu Nome
             </label>
@@ -60,6 +62,7 @@ const FormPage = () => {
         </MDBCol>
       </MDBRow>
     </MDBContainer>
+    </div>
   );
 };
 

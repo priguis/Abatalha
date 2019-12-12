@@ -16,13 +16,13 @@ const FooterPage = () => {
             <h5 className="title">Links</h5>
             <ul>
               <li className="list-unstyled">
-                <a href="https://www.facebook.com/batalhadominacao/">Facebook</a>
+                <a href="https://www.facebook.com/batalhadominacao/" target="_blank">Facebook</a>
               </li>
               <li className="list-unstyled">
-                <a href="https://www.instagram.com/batalhadominacao/">Instagram</a>
+                <a href="https://www.instagram.com/batalhadominacao/" target="blank_">Instagram</a>
               </li>
               <li className="list-unstyled">
-                <a href="https://www.youtube.com/channel/UCM5ef-yB7YrnG7IW6yHEpUA">Youtube</a>
+                <a href="https://www.youtube.com/channel/UCM5ef-yB7YrnG7IW6yHEpUA" target="_blank">Youtube</a>
               </li>
             </ul>
           </MDBCol>
@@ -30,7 +30,7 @@ const FooterPage = () => {
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="https://github.com/priguis"> Priguis</a>
+          &copy; {new Date().getFullYear()} Copyright: <a href="https://github.com/priguis" target="_blank"> Priguis</a>
         </MDBContainer>
       </div>
     </MDBFooter>

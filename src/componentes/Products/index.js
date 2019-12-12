@@ -3,31 +3,41 @@ import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
 import Lightbox from "react-image-lightbox";
 import "./style.css";
 
-
+import img1 from '../../imagens/Peita1.png'
+import img2 from '../../imagens/peita2.png'
+import img3 from '../../imagens/peita3.png'
+import img4 from '../../imagens/peita4.png'
+import img5 from '../../imagens/peita5.png'
+import img6 from '../../imagens/peita6.png'
+import img7 from '../../imagens/peita7.png'
+import img8 from '../../imagens/peita8.png'
+import img9 from '../../imagens/peita9.png'
 
 
 
 const images = [
   
-  "https://mdbootstrap.com/img/Others/documentation/img%20(152)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(42)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(151)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(40)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(148)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(147)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(149)-mini.jpg"
+  img1,
+  img2,
+  img3,
+  img4,
+  img5,
+  img6,
+  img7,
+  img8,
+  img9
 ];
 
 const smallImages = [
-  "https://mdbootstrap.com/img/Others/documentation/img%20(145)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(150)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(152)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(42)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(151)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(40)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(148)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(147)-mini.jpg",
-  "https://mdbootstrap.com/img/Others/documentation/img%20(149)-mini.jpg"
+  img1,
+  img2,
+  img3,
+  img4,
+  img5,
+  img6,
+  img7,
+  img8,
+  img9
 ];
 
 class Products extends React.Component {
