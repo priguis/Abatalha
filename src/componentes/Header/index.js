@@ -3,6 +3,7 @@ import './style.css'
 
 function Header(props) {
     return (
+    <div className="apresentacao">
         <section className={props.className}>
             <h1>{props.titulo}</h1>
             <h3>Uma batalha de conhecimento direcionada à mulheres, homens trans e pessoas não binárias,
@@ -19,7 +20,9 @@ function Header(props) {
 
 
         </section>
+        </div>
     )
+
 }
 
 export default Header
