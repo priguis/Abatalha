@@ -6,7 +6,7 @@ function Header(props) {
     <div className="apresentacao">
         <section className={props.className}>
             <h1>{props.titulo}</h1>
-            <h3>Uma batalha de conhecimento direcionada à mulheres, homens trans e pessoas não binárias,
+            <h3>Uma batalha de conhecimento direcionada à mulheres, pessoas trans e não binárias,
      que acontece toda segunda-feira em frente ao Mosteiro da São Bento.  </h3>
             <h5>                  “A gente percebia que as mulheres não estavam nas chaves de batalha,
                    mas tinham mulheres rimando depois que acabava o rolê”.

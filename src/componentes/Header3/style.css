@@ -1,0 +1,14 @@
+.home-header {
+    background-image: url(../../imagens/fundo.png);
+    min-height: 100vh;
+    background-position: right center;
+    background-attachment: fixed;
+    background-color: #FF6018;
+    background-blend-mode: overlay;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px 0;
+}

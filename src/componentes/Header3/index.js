@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css'
 
 function Header3 (props) {
     return (
@@ -6,7 +7,7 @@ function Header3 (props) {
 
             <h1> Fique por dentro do que rola toda semana na batalha!</h1>
 
-            <h5>Criamos eventos com temas e fazemos o possivel para incluir todos</h5>
+            <h5>Temas criados por em nome do amor e inclusão</h5>
      
         </section>
 
