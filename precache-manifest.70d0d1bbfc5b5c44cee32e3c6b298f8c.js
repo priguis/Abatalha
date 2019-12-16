@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0a69ad86f6dc213746d5d1736816878",
+    "revision": "d7217d87b090647887fd2c369a5df3e4",
     "url": "/Abatalha/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Abatalha/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "df28cf229d0258100e02",
-    "url": "/Abatalha/static/css/main.1ca9b188.chunk.css"
+    "revision": "2e47ef4d95c95cf77ca5",
+    "url": "/Abatalha/static/css/main.8b5b016f.chunk.css"
   },
   {
     "revision": "773edac7e7aee318179e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Abatalha/static/js/2.cd2c9433.chunk.js.LICENSE"
   },
   {
-    "revision": "df28cf229d0258100e02",
-    "url": "/Abatalha/static/js/main.22c1b21a.chunk.js"
+    "revision": "2e47ef4d95c95cf77ca5",
+    "url": "/Abatalha/static/js/main.b11c7308.chunk.js"
   },
   {
     "revision": "db36e60ec1e92028a4a5",
