@@ -1,8 +1,12 @@
 Footer{
-    background-color: black;
+    background-color: black
 
 
 }
 .footer-copyright{
     background-color: rgb(17, 16, 16);
+}
+
+footer a {
+    color: #FF6018;
 }
