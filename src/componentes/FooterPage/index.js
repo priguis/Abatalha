@@ -16,13 +16,13 @@ const FooterPage = () => {
             <h5 className="title">Links</h5>
             <ul>
               <li className="list-unstyled">
-                <a href="https://www.facebook.com/batalhadominacao/" target="_blank">Facebook</a>
+                <a href="https://www.facebook.com/batalhadominacao/" target="_blank" rel="noopener noreferrer">Facebook</a>
               </li>
               <li className="list-unstyled">
-                <a href="https://www.instagram.com/batalhadominacao/" target="blank_">Instagram</a>
+                <a href="https://www.instagram.com/batalhadominacao/" target="blank_" rel="noopener noreferrer">Instagram</a>
               </li>
               <li className="list-unstyled">
-                <a href="https://www.youtube.com/channel/UCM5ef-yB7YrnG7IW6yHEpUA" target="_blank">Youtube</a>
+                <a href="https://www.youtube.com/channel/UCM5ef-yB7YrnG7IW6yHEpUA" target="_blank" rel="noopener noreferrer">Youtube</a>
               </li>
             </ul>
           </MDBCol>

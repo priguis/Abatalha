@@ -12,7 +12,7 @@ import FooterPage from './componentes/FooterPage';
 function App () {
   return (
     <Switch>
-      <div>
+      <>
         <Navbar />
         <Route exact path='/' component={PaginaInicial} />
         <Route path='/produtos' component={Produtos} />
@@ -20,7 +20,7 @@ function App () {
         <Route path='/contatos' component={Contatos} />
         
         <FooterPage />
-      </div>
+      </>
      
     </Switch>
     

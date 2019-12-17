@@ -1,7 +1,8 @@
 
 import React, { Component } from 'react';
 import { MDBBtn, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBRow, MDBCol } from 'mdbreact';
-import './style.css'
+import './style.css';
+
 
 import img6 from '../../imagens/niaray.png'
 import img5 from '../../imagens/jade.png'
